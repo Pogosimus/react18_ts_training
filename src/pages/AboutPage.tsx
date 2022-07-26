@@ -2,7 +2,7 @@ import React from 'react';
 
 export function AboutPage() {
   return (
-    <div>
+    <div className='mx-40'>
       Lorem ipsum dolor sit amet, consectetur adipisicing elit. At iusto minus
       molestiae non quibusdam quod reprehenderit velit. Eius enim error harum,
       minus natus non obcaecati perferendis praesentium qui quisquam quos
